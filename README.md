@@ -2,7 +2,8 @@
 
 This package includes different levels of preprocessing code and project non-specifc basic analysis. It has three major components: 
 
-1. Data organization structure that supports the code
+1. Data organization structure that supports the code: 
+   In allen/aind/scratch/sueSu/ZS061
 
 2. Behavior code
    
